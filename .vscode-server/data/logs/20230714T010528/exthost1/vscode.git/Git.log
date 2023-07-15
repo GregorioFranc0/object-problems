@@ -1,0 +1,33 @@
+2023-07-14 01:05:29.998 [info] Log level: Info
+2023-07-14 01:05:29.998 [info] Validating found git in: "git"
+2023-07-14 01:05:29.998 [info] Using git "2.34.1" from "git"
+2023-07-14 01:05:29.998 [info] > git rev-parse --show-toplevel [58ms]
+2023-07-14 01:05:30.025 [info] > git rev-parse --git-dir --git-common-dir [27ms]
+2023-07-14 01:05:30.033 [info] Open repository: /home/gregoriofranco
+2023-07-14 01:05:30.045 [info] > git rev-parse --show-toplevel [8ms]
+2023-07-14 01:05:30.049 [info] > git rev-parse --show-toplevel [2ms]
+2023-07-14 01:05:30.065 [info] > git config --get commit.template [20ms]
+2023-07-14 01:05:30.070 [info] > git rev-parse --show-toplevel [6ms]
+2023-07-14 01:05:30.076 [info] No remotes found in the git config file.
+2023-07-14 01:05:30.080 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-07-14 01:05:30.083 [info] > git rev-parse --show-toplevel [10ms]
+2023-07-14 01:05:30.097 [info] > git rev-parse --show-toplevel [10ms]
+2023-07-14 01:05:30.103 [info] > git rev-parse --git-dir --git-common-dir [0ms]
+2023-07-14 01:05:30.108 [info] Open repository: /home/gregoriofranco/.nvm
+2023-07-14 01:05:30.136 [info] > git config --get commit.template [20ms]
+2023-07-14 01:05:30.136 [info] > git rev-parse --show-toplevel [24ms]
+2023-07-14 01:05:30.145 [info] > git rev-parse --show-toplevel [7ms]
+2023-07-14 01:05:30.150 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [6ms]
+2023-07-14 01:05:30.182 [info] > git status -z -uall [29ms]
+2023-07-14 01:05:30.195 [info] > git config --get commit.template [0ms]
+2023-07-14 01:05:30.204 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [5ms]
+2023-07-14 01:05:30.210 [info] > git status -z -uall [4ms]
+2023-07-14 01:05:30.356 [info] > git status -z -uall [273ms] (cancelled)
+2023-07-14 01:05:30.570 [info] > git show --textconv :aa-projects/scratch.js [3ms]
+2023-07-14 01:05:30.571 [info] > git ls-files --stage -- /home/gregoriofranco/aa-projects/scratch.js [1ms]
+2023-07-14 01:05:30.641 [info] > git check-ignore -v -z --stdin [3ms]
+2023-07-14 01:05:30.641 [info] > git check-ignore -v -z --stdin [1ms]
+2023-07-14 01:05:40.982 [info] No remotes found in the git config file.
+2023-07-14 01:05:40.983 [info] > git config --get commit.template [5ms]
+2023-07-14 01:05:41.957 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [975ms]
+2023-07-14 01:05:42.179 [info] > git status -z -uall [218ms] (cancelled)

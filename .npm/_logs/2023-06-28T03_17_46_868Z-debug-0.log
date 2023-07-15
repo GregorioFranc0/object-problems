@@ -1,0 +1,86 @@
+0 verbose cli /home/gregoriofranco/.nvm/versions/node/v16.20.1/bin/node /home/gregoriofranco/.nvm/versions/node/v16.20.1/bin/npm
+1 info using npm@8.19.4
+2 info using node@v16.20.1
+3 timing npm:load:whichnode Completed in 0ms
+4 timing config:load:defaults Completed in 3ms
+5 timing config:load:file:/home/gregoriofranco/.nvm/versions/node/v16.20.1/lib/node_modules/npm/npmrc Completed in 1ms
+6 timing config:load:builtin Completed in 1ms
+7 timing config:load:cli Completed in 1ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/home/gregoriofranco/.cache/typescript/5.1/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 2ms
+11 timing config:load:file:/home/gregoriofranco/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 1ms
+13 timing config:load:file:/home/gregoriofranco/.nvm/versions/node/v16.20.1/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:validate Completed in 0ms
+16 timing config:load:credentials Completed in 1ms
+17 timing config:load:setEnvs Completed in 0ms
+18 timing config:load Completed in 10ms
+19 timing npm:load:configload Completed in 10ms
+20 timing npm:load:mkdirpcache Completed in 1ms
+21 timing npm:load:mkdirplogs Completed in 1ms
+22 verbose title npm install types-registry@latest
+23 verbose argv "install" "--ignore-scripts" "types-registry@latest"
+24 timing npm:load:setTitle Completed in 1ms
+25 timing config:load:flatten Completed in 2ms
+26 timing npm:load:display Completed in 2ms
+27 verbose logfile logs-max:10 dir:/home/gregoriofranco/.npm/_logs
+28 verbose logfile /home/gregoriofranco/.npm/_logs/2023-06-28T03_17_46_868Z-debug-0.log
+29 timing npm:load:logFile Completed in 3ms
+30 timing npm:load:timers Completed in 0ms
+31 timing npm:load:configScope Completed in 0ms
+32 timing npm:load Completed in 19ms
+33 timing arborist:ctor Completed in 0ms
+34 silly logfile done cleaning log files
+35 timing idealTree:init Completed in 10ms
+36 timing arborist:ctor Completed in 0ms
+37 http fetch GET 200 https://registry.npmjs.org/types-registry 100125ms (cache stale)
+38 timing idealTree:userRequests Completed in 100131ms
+39 silly idealTree buildDeps
+40 silly fetch manifest types-registry@0.1.650
+41 silly placeDep ROOT types-registry@0.1.650 REPLACE for:  want: 0.1.650
+42 timing idealTree:#root Completed in 4ms
+43 timing idealTree:node_modules/types-registry Completed in 0ms
+44 timing idealTree:buildDeps Completed in 5ms
+45 timing idealTree:fixDepFlags Completed in 1ms
+46 timing idealTree Completed in 100148ms
+47 timing reify:loadTrees Completed in 100149ms
+48 timing reify:diffTrees Completed in 1ms
+49 silly reify moves {}
+50 timing reify:retireShallow Completed in 1ms
+51 timing reify:createSparse Completed in 0ms
+52 timing reify:loadBundles Completed in 0ms
+53 silly audit bulk request { 'types-registry': [ '0.1.650' ] }
+54 timing reify:unpack Completed in 0ms
+55 timing reify:unretire Completed in 0ms
+56 timing build:queue Completed in 0ms
+57 timing build:deps Completed in 0ms
+58 timing build Completed in 0ms
+59 timing reify:build Completed in 0ms
+60 timing reify:trash Completed in 0ms
+61 timing reify:save Completed in 3ms
+62 silly audit bulk request failed undefined
+63 verbose audit error FetchError: request to https://registry.npmjs.org/-/npm/v1/security/audits/quick failed, reason: getaddrinfo EAI_AGAIN registry.npmjs.org
+63 verbose audit error     at ClientRequest.<anonymous> (/home/gregoriofranco/.nvm/versions/node/v16.20.1/lib/node_modules/npm/node_modules/minipass-fetch/lib/index.js:130:14)
+63 verbose audit error     at ClientRequest.emit (node:events:513:28)
+63 verbose audit error     at TLSSocket.socketErrorListener (node:_http_client:494:9)
+63 verbose audit error     at TLSSocket.emit (node:events:525:35)
+63 verbose audit error     at emitErrorNT (node:internal/streams/destroy:157:8)
+63 verbose audit error     at emitErrorCloseNT (node:internal/streams/destroy:122:3)
+63 verbose audit error     at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+63 verbose audit error   code: 'EAI_AGAIN',
+63 verbose audit error   errno: 'EAI_AGAIN',
+63 verbose audit error   syscall: 'getaddrinfo',
+63 verbose audit error   hostname: 'registry.npmjs.org',
+63 verbose audit error   type: 'system'
+63 verbose audit error }
+64 silly audit error undefined
+65 timing auditReport:getReport Completed in 20026ms
+66 silly audit report null
+67 timing reify:audit Completed in 20027ms
+68 timing reify Completed in 120181ms
+69 timing command:install Completed in 120184ms
+70 verbose exit 0
+71 timing npm Completed in 120250ms
+72 info ok

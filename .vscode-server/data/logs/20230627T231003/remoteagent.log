@@ -1,0 +1,23 @@
+2023-06-27 23:10:03.033 [info] 
+
+
+
+
+2023-06-27 23:10:03.049 [info] Extension host agent started.
+2023-06-27 23:10:03.288 [info] [127.0.0.1][26043e1a][ManagementConnection] New connection established.
+2023-06-27 23:10:03.469 [info] [127.0.0.1][4161a5e1][ExtensionHostConnection] New connection established.
+2023-06-27 23:10:03.890 [info] [127.0.0.1][4161a5e1][ExtensionHostConnection] <1374> Launched Extension Host Process.
+2023-06-27 23:17:29.970 [info] [127.0.0.1][74f21e5d][ManagementConnection] New connection established.
+2023-06-27 23:17:30.346 [info] [127.0.0.1][9091fe9e][ExtensionHostConnection] New connection established.
+2023-06-27 23:17:30.348 [info] [127.0.0.1][9091fe9e][ExtensionHostConnection] <1650> Launched Extension Host Process.
+2023-06-27 23:20:39.682 [warning] [File Watcher (parcel)] Watcher shutdown because watched path got deleted (path: /home/gregoriofranco/aa-projects/tech-setup-check)
+2023-06-27 23:20:39.710 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-06-27 23:20:39.711 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-06-27 23:21:47.923 [info] [127.0.0.1][26043e1a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-27 23:21:47.937 [info] [127.0.0.1][4161a5e1][ExtensionHostConnection] <1374> Extension Host Process exited with code: 0, signal: null.
+2023-06-27 23:25:53.279 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2023-06-27 23:25:53.312 [warning] [File Watcher (parcel)] Watcher shutdown because watched path got deleted (path: /home/gregoriofranco/aa-projects)
+2023-06-27 23:27:11.847 [warning] [File Watcher (parcel)] Watcher restarts because watched path got created again (path: /home/gregoriofranco/aa-projects)
+2023-06-27 23:27:12.650 [error] [File Watcher (parcel)] Unexpected error stopping watcher: Unable to remove watcher: Invalid argument (path: /home/gregoriofranco/aa-projects)
+2023-06-27 23:29:11.994 [info] [127.0.0.1][74f21e5d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-27 23:29:12.015 [info] [127.0.0.1][9091fe9e][ExtensionHostConnection] <1650> Extension Host Process exited with code: 0, signal: null.

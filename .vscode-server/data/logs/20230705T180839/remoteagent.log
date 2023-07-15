@@ -1,0 +1,32 @@
+2023-07-05 18:08:39.976 [info] 
+
+
+
+
+2023-07-05 18:08:39.996 [info] Extension host agent started.
+2023-07-05 18:08:40.201 [info] [127.0.0.1][064ef1ed][ManagementConnection] New connection established.
+2023-07-05 18:08:40.448 [info] [127.0.0.1][ccce21d8][ExtensionHostConnection] New connection established.
+2023-07-05 18:08:41.146 [info] [127.0.0.1][ccce21d8][ExtensionHostConnection] <540> Launched Extension Host Process.
+2023-07-05 18:09:10.982 [info] Getting Manifest... ms-python.python
+2023-07-05 18:09:11.189 [info] Installing extension: ms-python.python
+2023-07-05 18:09:12.093 [info] Getting Manifest... ms-python.vscode-pylance
+2023-07-05 18:09:13.815 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-07-05 18:09:52.508 [info] Extension signature is verified: ms-python.python
+2023-07-05 18:09:55.248 [info] Extracted extension to /home/gregoriofranco/.vscode-server/extensions/.1669ba51-0e08-435c-94a9-1064eeac9785: ms-python.python
+2023-07-05 18:09:55.256 [info] Renamed to /home/gregoriofranco/.vscode-server/extensions/ms-python.python-2023.10.1
+2023-07-05 18:09:55.262 [info] Extracting extension completed. ms-python.python
+2023-07-05 18:10:15.980 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-07-05 18:10:20.796 [info] Extracted extension to /home/gregoriofranco/.vscode-server/extensions/.2f23be3e-5235-4a85-b28d-c070877d1a0d: ms-python.vscode-pylance
+2023-07-05 18:10:20.802 [info] Renamed to /home/gregoriofranco/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.40
+2023-07-05 18:10:20.804 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-07-05 18:10:20.811 [info] Extension installed successfully: ms-python.python
+2023-07-05 18:10:20.811 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-07-05 18:19:54.484 [info] Getting Manifest... formulahendry.code-runner
+2023-07-05 18:19:54.527 [info] Installing extension: formulahendry.code-runner
+2023-07-05 18:19:56.023 [info] Extension signature is verified: formulahendry.code-runner
+2023-07-05 18:19:56.159 [info] Extracted extension to /home/gregoriofranco/.vscode-server/extensions/.d4fba3b0-2c7f-455c-974e-babda8c5bb19: formulahendry.code-runner
+2023-07-05 18:19:56.163 [info] Renamed to /home/gregoriofranco/.vscode-server/extensions/formulahendry.code-runner-0.12.0
+2023-07-05 18:19:56.164 [info] Extracting extension completed. formulahendry.code-runner
+2023-07-05 18:19:56.173 [info] Extension installed successfully: formulahendry.code-runner
+2023-07-05 18:33:32.611 [info] [127.0.0.1][064ef1ed][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-05 18:33:32.717 [info] [127.0.0.1][ccce21d8][ExtensionHostConnection] <540> Extension Host Process exited with code: 0, signal: null.

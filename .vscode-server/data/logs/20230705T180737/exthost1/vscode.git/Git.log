@@ -1,0 +1,35 @@
+2023-07-05 18:07:39.948 [info] Log level: Info
+2023-07-05 18:07:39.948 [info] Validating found git in: "git"
+2023-07-05 18:07:39.948 [info] Using git "2.34.1" from "git"
+2023-07-05 18:07:39.948 [info] > git rev-parse --show-toplevel [26ms]
+2023-07-05 18:07:39.948 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-07-05 18:07:39.948 [info] Open repository: /home/gregoriofranco
+2023-07-05 18:07:39.948 [info] > git rev-parse --show-toplevel [27ms]
+2023-07-05 18:07:39.948 [info] > git rev-parse --show-toplevel [3ms]
+2023-07-05 18:07:39.948 [info] > git config --get commit.template [8ms]
+2023-07-05 18:07:39.948 [info] No remotes found in the git config file.
+2023-07-05 18:07:39.948 [info] > git rev-parse --show-toplevel [7ms]
+2023-07-05 18:07:39.948 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-07-05 18:07:39.948 [info] Open repository: /home/gregoriofranco/.nvm
+2023-07-05 18:07:39.948 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2023-07-05 18:07:39.948 [info] > git rev-parse --show-toplevel [9ms]
+2023-07-05 18:07:39.948 [info] > git rev-parse --show-toplevel [2ms]
+2023-07-05 18:07:39.948 [info] > git config --get commit.template [12ms]
+2023-07-05 18:07:39.948 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [3ms]
+2023-07-05 18:07:39.948 [info] > git status -z -uall [11ms]
+2023-07-05 18:07:39.948 [info] > git config --get commit.template [3ms]
+2023-07-05 18:07:39.948 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [1ms]
+2023-07-05 18:07:39.948 [info] > git status -z -uall [58ms]
+2023-07-05 18:07:39.948 [info] > git status -z -uall [52ms]
+2023-07-05 18:07:39.948 [info] > git config --get commit.template [2ms]
+2023-07-05 18:07:39.948 [info] No remotes found in the git config file.
+2023-07-05 18:07:39.948 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2023-07-05 18:07:39.948 [info] > git status -z -uall [17ms]
+2023-07-05 18:07:40.256 [info] > git check-ignore -v -z --stdin [5ms]
+2023-07-05 18:07:40.257 [info] > git check-ignore -v -z --stdin [2ms]
+2023-07-05 18:07:40.276 [info] > git show --textconv :.bashrc [7ms]
+2023-07-05 18:07:40.276 [info] > git ls-files --stage -- /home/gregoriofranco/.bashrc [2ms]
+2023-07-05 18:07:43.359 [info] > git config --get commit.template [1ms]
+2023-07-05 18:07:43.363 [info] No remotes found in the git config file.
+2023-07-05 18:07:43.363 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-07-05 18:07:43.377 [info] > git status -z -uall [11ms]

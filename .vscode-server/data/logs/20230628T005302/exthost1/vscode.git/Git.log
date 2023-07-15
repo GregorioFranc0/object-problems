@@ -1,0 +1,66 @@
+2023-06-28 00:53:04.132 [info] Log level: Info
+2023-06-28 00:53:04.132 [info] Validating found git in: "git"
+2023-06-28 00:53:04.132 [info] Using git "2.34.1" from "git"
+2023-06-28 00:53:04.132 [info] > git rev-parse --show-toplevel [23ms]
+2023-06-28 00:53:04.157 [info] > git rev-parse --git-dir --git-common-dir [25ms]
+2023-06-28 00:53:04.166 [info] Open repository: /home/gregoriofranco
+2023-06-28 00:53:04.173 [info] > git rev-parse --show-toplevel [4ms]
+2023-06-28 00:53:04.177 [info] > git config --get commit.template [5ms]
+2023-06-28 00:53:04.178 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-28 00:53:04.186 [info] No remotes found in the git config file.
+2023-06-28 00:53:04.188 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-06-28 00:53:04.191 [info] > git rev-parse --show-toplevel [9ms]
+2023-06-28 00:53:04.194 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-06-28 00:53:04.201 [info] Open repository: /home/gregoriofranco/.nvm
+2023-06-28 00:53:04.208 [info] > git rev-parse --show-toplevel [3ms]
+2023-06-28 00:53:04.212 [info] > git config --get commit.template [5ms]
+2023-06-28 00:53:04.212 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-28 00:53:04.223 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [3ms]
+2023-06-28 00:53:04.238 [info] > git status -z -uall [12ms]
+2023-06-28 00:53:04.247 [info] > git status -z -uall [57ms]
+2023-06-28 00:53:04.486 [info] > git config --get commit.template [238ms]
+2023-06-28 00:53:04.490 [info] > git config --get commit.template [16ms]
+2023-06-28 00:53:04.491 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [1ms]
+2023-06-28 00:53:04.497 [info] No remotes found in the git config file.
+2023-06-28 00:53:04.497 [info] > git status -z -uall [3ms]
+2023-06-28 00:53:04.500 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-06-28 00:53:04.514 [info] > git status -z -uall [11ms]
+2023-06-28 00:53:04.813 [info] > git check-ignore -v -z --stdin [5ms]
+2023-06-28 00:53:04.921 [info] > git show --textconv :.bashrc [4ms]
+2023-06-28 00:53:04.922 [info] > git ls-files --stage -- /home/gregoriofranco/.bashrc [2ms]
+2023-06-28 00:53:10.991 [info] > git config --get commit.template [1ms]
+2023-06-28 00:53:10.995 [info] No remotes found in the git config file.
+2023-06-28 00:53:10.995 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2023-06-28 00:53:11.006 [info] > git status -z -uall [8ms]
+2023-06-28 00:53:16.022 [info] > git config --get commit.template [1ms]
+2023-06-28 00:53:16.025 [info] No remotes found in the git config file.
+2023-06-28 00:53:16.026 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2023-06-28 00:53:16.038 [info] > git status -z -uall [10ms]
+2023-06-28 00:53:21.056 [info] > git config --get commit.template [1ms]
+2023-06-28 00:53:21.059 [info] No remotes found in the git config file.
+2023-06-28 00:53:21.059 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2023-06-28 00:53:21.070 [info] > git status -z -uall [8ms]
+2023-06-28 00:54:16.205 [info] > git config --get commit.template [1ms]
+2023-06-28 00:54:16.207 [info] No remotes found in the git config file.
+2023-06-28 00:54:16.208 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2023-06-28 00:54:16.218 [info] > git status -z -uall [8ms]
+2023-06-28 00:54:16.799 [info] > git check-ignore -v -z --stdin [3ms]
+2023-06-28 00:54:16.799 [info] > git check-ignore -v -z --stdin [1ms]
+2023-06-28 00:54:18.813 [info] > git show --textconv :.bashrc [3ms]
+2023-06-28 00:54:18.814 [info] > git ls-files --stage -- /home/gregoriofranco/.bashrc [1ms]
+2023-06-28 00:54:21.239 [info] > git config --get commit.template [1ms]
+2023-06-28 00:54:21.241 [info] No remotes found in the git config file.
+2023-06-28 00:54:21.242 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-06-28 00:54:21.252 [info] > git status -z -uall [8ms]
+2023-06-28 00:54:26.271 [info] > git config --get commit.template [0ms]
+2023-06-28 00:54:26.273 [info] No remotes found in the git config file.
+2023-06-28 00:54:26.274 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-06-28 00:54:26.283 [info] > git status -z -uall [7ms]
+2023-06-28 00:54:42.006 [info] No remotes found in the git config file.
+2023-06-28 00:54:42.007 [info] > git config --get commit.template [4ms]
+2023-06-28 00:54:42.007 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-06-28 00:54:42.018 [info] > git status -z -uall [8ms]
+2023-06-28 00:54:58.012 [info] > git config --get commit.template [1ms]
+2023-06-28 00:54:58.015 [info] No remotes found in the git config file.
+2023-06-28 00:54:58.016 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-06-28 00:54:58.027 [info] > git status -z -uall [8ms]

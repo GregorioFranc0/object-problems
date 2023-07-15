@@ -1,0 +1,11 @@
+2023-07-15 12:17:36.190 [info] 
+
+
+
+
+2023-07-15 12:17:36.206 [info] Extension host agent started.
+2023-07-15 12:17:36.274 [info] Deleted from disk ms-python.python /home/gregoriofranco/.vscode-server/extensions/ms-python.python-2023.10.1
+2023-07-15 12:17:36.274 [info] Deleted from disk ms-python.vscode-pylance /home/gregoriofranco/.vscode-server/extensions/ms-python.vscode-pylance-2023.6.40
+2023-07-15 12:17:36.286 [info] [127.0.0.1][d0b4f60d][ManagementConnection] New connection established.
+2023-07-15 12:17:36.363 [info] [127.0.0.1][908dd726][ExtensionHostConnection] New connection established.
+2023-07-15 12:17:36.847 [info] [127.0.0.1][908dd726][ExtensionHostConnection] <323> Launched Extension Host Process.

@@ -1,0 +1,364 @@
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+You have scored 0/7 points.
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/tempCodeRunnerFile.js"
+/home/gregoriofranco/aa-projects/tempCodeRunnerFile.js:33
+
+
+
+SyntaxError: Unexpected end of input
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+    at Module._compile (node:internal/modules/cjs/loader:1162:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.035 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+
+[Done] exited with code=0 in 0.043 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+
+[Done] exited with code=0 in 0.026 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+
+[Done] exited with code=0 in 0.026 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+/home/gregoriofranco/aa-projects/scratch.js:20
+console.log(sum);
+            ^
+
+ReferenceError: sum is not defined
+    at Object.<anonymous> (/home/gregoriofranco/aa-projects/scratch.js:20:13)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.028 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+/home/gregoriofranco/aa-projects/scratch.js:20
+console.log(sum);
+            ^
+
+ReferenceError: sum is not defined
+    at Object.<anonymous> (/home/gregoriofranco/aa-projects/scratch.js:20:13)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.028 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+/home/gregoriofranco/aa-projects/scratch.js:20
+console.log(sum);
+            ^
+
+ReferenceError: sum is not defined
+    at Object.<anonymous> (/home/gregoriofranco/aa-projects/scratch.js:20:13)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.028 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+/home/gregoriofranco/aa-projects/scratch.js:20
+console.log(sum);
+            ^
+
+ReferenceError: sum is not defined
+    at Object.<anonymous> (/home/gregoriofranco/aa-projects/scratch.js:20:13)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.028 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+/home/gregoriofranco/aa-projects/scratch.js:14
+console.log(sum);
+            ^
+
+ReferenceError: sum is not defined
+    at Object.<anonymous> (/home/gregoriofranco/aa-projects/scratch.js:14:13)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.027 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+
+[Done] exited with code=0 in 0.026 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+
+[Done] exited with code=0 in 0.026 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+
+[Done] exited with code=0 in 0.026 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+true
+
+[Done] exited with code=0 in 0.03 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+true
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+true
+true
+false
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+You have scored 0/7 points.
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+1
+1
+1
+1
+1
+1
+1
+1
+You have scored 0/7 points.
+
+[Done] exited with code=0 in 0.03 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+1
+1
+1
+1
+1
+1
+1
+1
+You have scored 0/7 points.
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+1
+1
+1
+1
+1
+1
+1
+1
+You have scored 0/7 points.
+
+[Done] exited with code=0 in 0.033 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+/home/gregoriofranco/aa-projects/scratch.js:24
+            sum += 5;
+            ^
+
+ReferenceError: sum is not defined
+    at costOfGroceries (/home/gregoriofranco/aa-projects/scratch.js:24:13)
+    at Object.<anonymous> (/home/gregoriofranco/aa-projects/scratch.js:35:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.028 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+/home/gregoriofranco/aa-projects/scratch.js:29
+    return sum;
+    ^
+
+ReferenceError: sum is not defined
+    at costOfGroceries (/home/gregoriofranco/aa-projects/scratch.js:29:5)
+    at Object.<anonymous> (/home/gregoriofranco/aa-projects/scratch.js:36:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.045 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+
+[Done] exited with code=0 in 0.028 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+8
+13
+9
+3
+
+[Done] exited with code=0 in 0.03 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+
+[Done] exited with code=0 in 0.027 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+/home/gregoriofranco/aa-projects/scratch.js:61
+const groceriesA = ['cheese', 'butter', 'eggs'];
+      ^
+
+SyntaxError: Identifier 'groceriesA' has already been declared
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+    at Module._compile (node:internal/modules/cjs/loader:1162:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.038 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+/home/gregoriofranco/aa-projects/scratch.js:61
+const groceriesA = ['cheese', 'butter', 'eggs'];
+      ^
+
+SyntaxError: Identifier 'groceriesA' has already been declared
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+    at Module._compile (node:internal/modules/cjs/loader:1162:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.038 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+/home/gregoriofranco/aa-projects/scratch.js:61
+const groceriesA = ['cheese', 'butter', 'eggs'];
+      ^
+
+SyntaxError: Identifier 'groceriesA' has already been declared
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+    at Module._compile (node:internal/modules/cjs/loader:1162:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.038 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+You have scored 4/7 points.
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+You have scored 4/7 points.
+
+[Done] exited with code=0 in 0.029 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+/home/gregoriofranco/aa-projects/scratch.js:57
+    console.log(groceriesList[i]);
+                              ^
+
+ReferenceError: i is not defined
+    at mostExpensiveGroceries (/home/gregoriofranco/aa-projects/scratch.js:57:31)
+    at Object.<anonymous> (/home/gregoriofranco/aa-projects/scratch.js:74:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.029 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+You have scored 4/7 points.
+
+[Done] exited with code=0 in 0.029 seconds
+
