@@ -1,0 +1,50 @@
+2023-07-19 00:38:00.142 [info] Log level: Info
+2023-07-19 00:38:00.142 [info] Validating found git in: "git"
+2023-07-19 00:38:00.142 [info] Using git "2.34.1" from "git"
+2023-07-19 00:38:00.142 [info] > git rev-parse --show-toplevel [35ms]
+2023-07-19 00:38:00.142 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-07-19 00:38:00.142 [info] Open repository: /home/gregoriofranco
+2023-07-19 00:38:00.142 [info] > git rev-parse --show-toplevel [24ms]
+2023-07-19 00:38:00.142 [info] > git config --get commit.template [25ms]
+2023-07-19 00:38:00.143 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-07-19 00:38:00.146 [info] Open repository: /home/gregoriofranco/aa-github-stuff/SWEO-Part-Time-Resources
+2023-07-19 00:38:00.152 [info] No remotes found in the git config file.
+2023-07-19 00:38:00.156 [info] > git config --get commit.template [2ms]
+2023-07-19 00:38:00.157 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-07-19 00:38:00.170 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/2023-Jun refs/remotes/2023-Jun [2ms]
+2023-07-19 00:38:00.214 [info] > git status -z -uall [41ms]
+2023-07-19 00:38:00.223 [info] > git config --get commit.template [1ms]
+2023-07-19 00:38:00.228 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/2023-Jun refs/remotes/2023-Jun [1ms]
+2023-07-19 00:38:00.250 [info] > git status -z -uall [17ms]
+2023-07-19 00:38:00.367 [info] > git status -z -uall [206ms]
+2023-07-19 00:38:00.379 [info] No remotes found in the git config file.
+2023-07-19 00:38:00.380 [info] > git config --get commit.template [4ms]
+2023-07-19 00:38:00.381 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-07-19 00:38:00.411 [info] > git status -z -uall [26ms]
+2023-07-19 00:38:00.671 [info] > git check-ignore -v -z --stdin [1ms]
+2023-07-19 00:38:00.677 [info] > git check-ignore -v -z --stdin [10ms]
+2023-07-19 00:38:00.760 [info] > git show --textconv :utilities/additional_resources/holiday_schedule_lecture_notes/2021-sept/thanksgiving/2-day/m2-thanksgiving-d2.md [4ms]
+2023-07-19 00:38:00.760 [info] > git ls-files --stage -- /home/gregoriofranco/aa-github-stuff/SWEO-Part-Time-Resources/utilities/additional_resources/holiday_schedule_lecture_notes/2021-sept/thanksgiving/2-day/m2-thanksgiving-d2.md [1ms]
+2023-07-19 00:38:00.763 [info] > git cat-file -s 2eec40b313e69ab67ec293f785ac2bc330120336 [0ms]
+2023-07-19 00:38:04.709 [info] > git config --get commit.template [1ms]
+2023-07-19 00:38:04.712 [info] No remotes found in the git config file.
+2023-07-19 00:38:04.712 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-07-19 00:38:04.738 [info] > git status -z -uall [24ms]
+2023-07-19 00:38:09.745 [info] > git config --get commit.template [1ms]
+2023-07-19 00:38:09.747 [info] No remotes found in the git config file.
+2023-07-19 00:38:09.748 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-07-19 00:38:09.772 [info] > git status -z -uall [22ms]
+2023-07-19 00:38:11.353 [info] > git check-ignore -v -z --stdin [1ms]
+2023-07-19 00:38:11.948 [info] > git check-ignore -v -z --stdin [0ms]
+2023-07-19 00:38:12.535 [info] > git check-ignore -v -z --stdin [0ms]
+2023-07-19 00:38:12.907 [info] > git show --textconv :1-Module/1-week/1-day/README.md [2ms]
+2023-07-19 00:38:12.908 [info] > git ls-files --stage -- /home/gregoriofranco/aa-github-stuff/SWEO-Part-Time-Resources/1-Module/1-week/1-day/README.md [1ms]
+2023-07-19 00:38:12.911 [info] > git cat-file -s 32549abdf5610a73af6d287bfa74ebe7501c7304 [0ms]
+2023-07-19 00:38:14.780 [info] > git config --get commit.template [1ms]
+2023-07-19 00:38:14.783 [info] No remotes found in the git config file.
+2023-07-19 00:38:14.784 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-07-19 00:38:14.800 [info] > git check-ignore -v -z --stdin [0ms]
+2023-07-19 00:38:14.810 [info] > git status -z -uall [23ms]
+2023-07-19 00:38:15.284 [info] > git show --textconv :1-Module/1-week/2-day/README.md [3ms]
+2023-07-19 00:38:15.284 [info] > git ls-files --stage -- /home/gregoriofranco/aa-github-stuff/SWEO-Part-Time-Resources/1-Module/1-week/2-day/README.md [1ms]
+2023-07-19 00:38:15.288 [info] > git cat-file -s a36756d996dfd0fd380b4017c114ed1be9b288ac [0ms]

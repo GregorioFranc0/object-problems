@@ -1,0 +1,18 @@
+2023-07-19 00:38:40.806 [info] 
+
+
+
+
+2023-07-19 00:38:40.823 [info] Extension host agent started.
+2023-07-19 00:38:41.063 [info] [127.0.0.1][0dfb74e6][ManagementConnection] New connection established.
+2023-07-19 00:38:41.523 [info] [127.0.0.1][da2671ad][ExtensionHostConnection] New connection established.
+2023-07-19 00:38:41.627 [info] [127.0.0.1][da2671ad][ExtensionHostConnection] <1496> Launched Extension Host Process.
+2023-07-19 00:42:45.957 [info] Getting Manifest... tonybaloney.vscode-pets
+2023-07-19 00:42:46.001 [info] Installing extension: tonybaloney.vscode-pets
+2023-07-19 00:42:48.028 [info] Extension signature is verified: tonybaloney.vscode-pets
+2023-07-19 00:42:48.543 [info] Extracted extension to /home/gregoriofranco/.vscode-server/extensions/.d2afa59a-4224-4cc6-abd8-93a2511029c8: tonybaloney.vscode-pets
+2023-07-19 00:42:48.554 [info] Renamed to /home/gregoriofranco/.vscode-server/extensions/tonybaloney.vscode-pets-1.22.0
+2023-07-19 00:42:48.556 [info] Extracting extension completed. tonybaloney.vscode-pets
+2023-07-19 00:42:48.561 [info] Extension installed successfully: tonybaloney.vscode-pets
+2023-07-19 01:01:06.445 [info] [127.0.0.1][0dfb74e6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-19 01:01:06.478 [info] [127.0.0.1][da2671ad][ExtensionHostConnection] <1496> Extension Host Process exited with code: 0, signal: null.

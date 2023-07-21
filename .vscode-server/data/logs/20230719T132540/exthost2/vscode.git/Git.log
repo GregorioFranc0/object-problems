@@ -1,0 +1,28 @@
+2023-07-19 13:40:41.042 [info] Log level: Info
+2023-07-19 13:40:41.042 [info] Validating found git in: "git"
+2023-07-19 13:40:41.042 [info] Using git "2.34.1" from "git"
+2023-07-19 13:40:41.042 [info] > git rev-parse --show-toplevel [45ms]
+2023-07-19 13:40:41.042 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-07-19 13:40:41.042 [info] Open repository: /home/gregoriofranco/Clone-Prac
+2023-07-19 13:40:41.042 [info] > git config --get commit.template [21ms]
+2023-07-19 13:40:41.047 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-07-19 13:40:41.051 [info] > git status -z -uall [2ms]
+2023-07-19 13:40:41.062 [info] > git config --get commit.template [3ms]
+2023-07-19 13:40:41.063 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-07-19 13:40:41.066 [info] > git status -z -uall [1ms]
+2023-07-19 13:40:41.544 [info] > git check-ignore -v -z --stdin [1ms]
+2023-07-19 13:40:57.417 [info] > git show --textconv :scratch.js [3ms]
+2023-07-19 13:40:57.418 [info] > git ls-files --stage -- /home/gregoriofranco/Clone-Prac/scratch.js [1ms]
+2023-07-19 13:40:57.645 [info] > git check-ignore -v -z --stdin [1ms]
+2023-07-19 13:40:58.161 [info] > git config --get commit.template [0ms]
+2023-07-19 13:40:58.163 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2023-07-19 13:40:58.166 [info] > git status -z -uall [1ms]
+2023-07-19 13:41:09.865 [info] > git config --get commit.template [0ms]
+2023-07-19 13:41:09.868 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-07-19 13:41:09.871 [info] > git status -z -uall [1ms]
+2023-07-19 13:42:04.806 [info] > git config --get commit.template [2ms]
+2023-07-19 13:42:04.809 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-07-19 13:42:04.811 [info] > git ls-files --stage -- /home/gregoriofranco/Clone-Prac/scratch.js [3ms]
+2023-07-19 13:42:04.814 [info] > git status -z -uall [3ms]
+2023-07-19 13:42:04.817 [info] > git cat-file -s 6d045c425b46ded59bc4e2004adbfd267b31c0b4 [4ms]
+2023-07-19 13:42:04.830 [info] > git show --textconv :scratch.js [1ms]

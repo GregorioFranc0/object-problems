@@ -362,3 +362,203 @@ You have scored 4/7 points.
 
 [Done] exited with code=0 in 0.029 seconds
 
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+You have scored 4/7 points.
+
+[Done] exited with code=0 in 0.034 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+You have scored 4/7 points.
+
+[Done] exited with code=0 in 0.032 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+/home/gregoriofranco/aa-projects/scratch.js:19
+    for (let i = 0; i < groceries.length; i++) {
+                                  ^
+
+TypeError: Cannot read properties of undefined (reading 'length')
+    at costOfGroceries (/home/gregoriofranco/aa-projects/scratch.js:19:35)
+    at mostExpensiveGroceries (/home/gregoriofranco/aa-projects/scratch.js:54:20)
+    at Object.<anonymous> (/home/gregoriofranco/aa-projects/scratch.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.029 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+/home/gregoriofranco/aa-projects/scratch.js:19
+    for (let i = 0; i < groceries.length; i++) {
+                                  ^
+
+TypeError: Cannot read properties of undefined (reading 'length')
+    at costOfGroceries (/home/gregoriofranco/aa-projects/scratch.js:19:35)
+    at mostExpensiveGroceries (/home/gregoriofranco/aa-projects/scratch.js:54:20)
+    at Object.<anonymous> (/home/gregoriofranco/aa-projects/scratch.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.028 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+/home/gregoriofranco/aa-projects/scratch.js:54
+        if (costOfGroceries(groceries.List[i]) > costOfGroceries(groceriesList[i - 1])) {
+                            ^
+
+ReferenceError: groceries is not defined
+    at mostExpensiveGroceries (/home/gregoriofranco/aa-projects/scratch.js:54:29)
+    at Object.<anonymous> (/home/gregoriofranco/aa-projects/scratch.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.027 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+/home/gregoriofranco/aa-projects/scratch.js:54
+        if (costOfGroceries(groceries.List[i]) > costOfGroceries(groceriesList[i - 1])) {
+                            ^
+
+ReferenceError: groceries is not defined
+    at mostExpensiveGroceries (/home/gregoriofranco/aa-projects/scratch.js:54:29)
+    at Object.<anonymous> (/home/gregoriofranco/aa-projects/scratch.js:76:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.029 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+/home/gregoriofranco/aa-projects/scratch.js:54
+        if (costOfGroceries(groceries.List[i]) > costOfGroceries(groceriesList[i - 1])) {
+                            ^
+
+ReferenceError: groceries is not defined
+    at mostExpensiveGroceries (/home/gregoriofranco/aa-projects/scratch.js:54:29)
+    at Object.<anonymous> (/home/gregoriofranco/aa-projects/scratch.js:76:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.027 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+/home/gregoriofranco/aa-projects/scratch.js:19
+    for (let i = 0; i < groceries.length; i++) {
+                                  ^
+
+TypeError: Cannot read properties of undefined (reading 'length')
+    at costOfGroceries (/home/gregoriofranco/aa-projects/scratch.js:19:35)
+    at mostExpensiveGroceries (/home/gregoriofranco/aa-projects/scratch.js:54:49)
+    at Object.<anonymous> (/home/gregoriofranco/aa-projects/scratch.js:76:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.029 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+/home/gregoriofranco/aa-projects/scratch.js:71
+costOfGroceries(groceriesA);  // 8
+^
+
+ReferenceError: costOfGroceries is not defined
+    at Object.<anonymous> (/home/gregoriofranco/aa-projects/scratch.js:71:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.028 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+/home/gregoriofranco/aa-projects/scratch.js:19
+    for (let i = 0; i < groceries.length; i++) {
+                                  ^
+
+TypeError: Cannot read properties of undefined (reading 'length')
+    at costOfGroceries (/home/gregoriofranco/aa-projects/scratch.js:19:35)
+    at mostExpensiveGroceries (/home/gregoriofranco/aa-projects/scratch.js:54:49)
+    at Object.<anonymous> (/home/gregoriofranco/aa-projects/scratch.js:76:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.028 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/tempCodeRunnerFile.js"
+/home/gregoriofranco/aa-projects/tempCodeRunnerFile.js:15
+
+
+
+SyntaxError: Unexpected end of input
+    at Object.compileFunction (node:vm:360:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1126:15)
+    at Module._compile (node:internal/modules/cjs/loader:1162:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.035 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+/home/gregoriofranco/aa-projects/scratch.js:76
+mostExpensiveGroceries([groceriesA, groceriesB, groceriesC, groceriesD]);
+^
+
+ReferenceError: mostExpensiveGroceries is not defined
+    at Object.<anonymous> (/home/gregoriofranco/aa-projects/scratch.js:76:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.03 seconds
+
+[Running] node "/home/gregoriofranco/aa-projects/scratch.js"
+/home/gregoriofranco/aa-projects/scratch.js:19
+    for (let i = 0; i < groceries.length; i++) {
+                                  ^
+
+TypeError: Cannot read properties of undefined (reading 'length')
+    at costOfGroceries (/home/gregoriofranco/aa-projects/scratch.js:19:35)
+    at mostExpensiveGroceries (/home/gregoriofranco/aa-projects/scratch.js:54:49)
+    at Object.<anonymous> (/home/gregoriofranco/aa-projects/scratch.js:76:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+[Done] exited with code=1 in 0.028 seconds
+

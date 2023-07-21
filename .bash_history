@@ -183,3 +183,106 @@ node
 cd
 ls
 code .
+git status
+git add .
+git status
+git commit -m "added new files to repo"
+git push origin -m
+git push origin main
+git status
+git push origin master
+git status
+git add .
+git commit -m "changed more things"
+git push origin master
+git push master
+clear
+node scratch.js
+https://github.com/appacademy/SWEO-Part-Time-Resourcesclear
+clear
+cd 1-Module
+cd 3-week
+cd 2-day
+node scratch.js
+clear
+node scratch.js
+cd
+cd SWEO-Part-Time-Resources
+cd aa-github-stuff
+cd SWEO-Part-Time-Resources
+git pull
+ls
+mkdir aa-github-stuff
+ls
+cd aa-github-stuff
+ls
+git clone -b 2023-Jun https://github.com/appacademy/SWEO-Part-Time-Resources
+ls
+code .
+explorer.exe .
+code .
+cd SWEO-Part-Time-Resources
+ls
+code .
+git branch
+git pull
+cd aa-projects
+ls
+cd
+ls
+cd aa-github-stuff
+ls
+cd SWE-Part-Time-Resources
+cd SWEO-Part-Time-Resources
+ls
+code .
+cd
+git clone -b https://github.com/GregorioFranc0/Clone-Prac.git
+clear
+git clone https://github.com/GregorioFranc0/Clone-Prac.git
+git status
+git add .
+git reset .
+git status
+ls
+cd Clone-Prac
+ls
+code .
+ls
+git add .
+git commit -m "init commit"
+git push origin master
+git status
+git push origin main
+ls
+cd aa-github-projects
+cd aa-github-stuff
+ls
+cd SWEO-Part-Time_Resources
+cd SWEO-Part-Time-Resources
+ls
+git pull
+git add .
+git status
+git restore --staged 1-Module/3-week/2-day/scratch.js
+git status
+git pull
+git add .
+git commit -m "changed scratch.js
+git commit -m "changed scratch.js"
+git status
+
+clear
+"
+git status
+git commit -m "changed scratch.js"
+git pull
+git config pull.rebase false
+git pull
+code .
+git merge
+git add .
+git merge
+git pull
+git status
+git push origin main

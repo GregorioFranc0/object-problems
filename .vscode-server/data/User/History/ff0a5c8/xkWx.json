@@ -1,0 +1,16 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.formatOnSave": true,
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "window.zoomLevel": 2,
+    "security.workspace.trust.banner": "always"
+}

@@ -1,0 +1,20 @@
+2023-07-21 00:03:05.156 [info] 
+
+
+
+
+2023-07-21 00:03:05.175 [info] Extension host agent started.
+2023-07-21 00:03:05.241 [info] Deleted from disk ms-python.vscode-pylance /home/gregoriofranco/.vscode-server/extensions/ms-python.vscode-pylance-2023.7.20
+2023-07-21 00:03:05.290 [info] [127.0.0.1][2d66231c][ManagementConnection] New connection established.
+2023-07-21 00:03:05.375 [info] [127.0.0.1][cc66dc02][ExtensionHostConnection] New connection established.
+2023-07-21 00:03:05.958 [info] [127.0.0.1][cc66dc02][ExtensionHostConnection] <303> Launched Extension Host Process.
+2023-07-21 00:03:08.826 [info] Getting Manifest... tonybaloney.vscode-pets
+2023-07-21 00:03:08.875 [info] Installing extension: tonybaloney.vscode-pets
+2023-07-21 00:03:10.891 [info] Extension signature is verified: tonybaloney.vscode-pets
+2023-07-21 00:03:11.409 [info] Extracted extension to /home/gregoriofranco/.vscode-server/extensions/.abee7f72-4a34-474d-9316-3e8ad3da1f09: tonybaloney.vscode-pets
+2023-07-21 00:03:11.414 [info] Renamed to /home/gregoriofranco/.vscode-server/extensions/tonybaloney.vscode-pets-1.24.0
+2023-07-21 00:03:11.415 [info] Extracting extension completed. tonybaloney.vscode-pets
+2023-07-21 00:03:11.420 [info] Extension installed successfully: tonybaloney.vscode-pets
+2023-07-21 00:03:11.424 [info] Marked extension as uninstalled tonybaloney.vscode-pets-1.22.0
+2023-07-21 00:03:16.005 [info] [127.0.0.1][2d66231c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-21 00:03:16.024 [info] [127.0.0.1][cc66dc02][ExtensionHostConnection] <303> Extension Host Process exited with code: 0, signal: null.
